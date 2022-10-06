@@ -1,1 +1,1 @@
-This repo contain 0x00. shell basic project
+This repository contain solutions to shell task
